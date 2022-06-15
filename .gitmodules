@@ -3,3 +3,33 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "daymetr"]
+	path = daymetr
+	url = https://github.com/bluegreen-labs/daymetr
+	shallow = true
+	registered = true
+[submodule "ecmwfr"]
+	path = ecmwfr
+	url = https://github.com/bluegreen-labs/ecmwfr
+	shallow = true
+	registered = true
+[submodule "foto"]
+	path = foto
+	url = https://github.com/bluegreen-labs/foto
+	shallow = true
+	registered = true
+[submodule "hwsdr"]
+	path = hwsdr
+	url = https://github.com/bluegreen-labs/hwsdr
+	shallow = true
+	registered = true
+[submodule "igrf"]
+	path = igrf
+	url = https://github.com/bluegreen-labs/igrf
+	shallow = true
+	registered = true
+[submodule "snotelr"]
+	path = snotelr
+	url = https://github.com/bluegreen-labs/snotelr
+	shallow = true
+	registered = true
