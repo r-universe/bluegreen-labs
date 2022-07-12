@@ -8,19 +8,11 @@
     "oncran": true
   },
   {
-    "package": "foto",
-    "oncran": true
-  },
-  {
     "package": "hwsdr",
     "oncran": true
   },
   {
     "package": "igrf",
-    "oncran": true
-  },
-  {
-    "package": "snotelr",
     "oncran": true
   }
 ]
