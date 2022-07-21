@@ -20,6 +20,10 @@
     "oncran": true
   },
   {
+    "package": "phenocamr",
+    "oncran": true
+  },
+  {
     "package": "snotelr",
     "oncran": true
   }

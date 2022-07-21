@@ -28,6 +28,11 @@
 	url = https://github.com/bluegreen-labs/igrf
 	shallow = true
 	registered = true
+[submodule "phenocamr"]
+	path = phenocamr
+	url = https://github.com/bluegreen-labs/phenocamr
+	shallow = true
+	registered = true
 [submodule "snotelr"]
 	path = snotelr
 	url = https://github.com/bluegreen-labs/snotelr
