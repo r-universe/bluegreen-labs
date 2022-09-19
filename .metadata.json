@@ -4,6 +4,10 @@
     "oncran": true
   },
   {
+    "package": "ecmwfr",
+    "oncran": true
+  },
+  {
     "package": "foto",
     "oncran": true
   },

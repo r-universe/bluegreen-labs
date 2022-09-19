@@ -8,6 +8,11 @@
 	url = https://github.com/bluegreen-labs/daymetr
 	shallow = true
 	registered = true
+[submodule "ecmwfr"]
+	path = ecmwfr
+	url = https://github.com/bluegreen-labs/ecmwfr
+	shallow = true
+	registered = true
 [submodule "foto"]
 	path = foto
 	url = https://github.com/bluegreen-labs/foto
