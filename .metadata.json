@@ -24,6 +24,10 @@
     "oncran": true
   },
   {
+    "package": "skylight",
+    "oncran": true
+  },
+  {
     "package": "snotelr",
     "oncran": true
   }

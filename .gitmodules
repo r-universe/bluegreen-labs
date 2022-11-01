@@ -33,6 +33,11 @@
 	url = https://github.com/bluegreen-labs/phenocamr
 	shallow = true
 	registered = true
+[submodule "skylight"]
+	path = skylight
+	url = https://github.com/bluegreen-labs/skylight
+	shallow = true
+	registered = true
 [submodule "snotelr"]
 	path = snotelr
 	url = https://github.com/bluegreen-labs/snotelr
