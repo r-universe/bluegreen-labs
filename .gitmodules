@@ -28,6 +28,11 @@
 	url = https://github.com/bluegreen-labs/igrf
 	shallow = true
 	registered = true
+[submodule "MODISTools"]
+	path = MODISTools
+	url = https://github.com/bluegreen-labs/modistools
+	shallow = true
+	registered = true
 [submodule "phenocamr"]
 	path = phenocamr
 	url = https://github.com/bluegreen-labs/phenocamr
