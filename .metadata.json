@@ -1,6 +1,22 @@
 [
   {
+    "package": "igrf",
+    "oncran": true
+  },
+  {
     "package": "daymetr",
+    "oncran": true
+  },
+  {
+    "package": "snotelr",
+    "oncran": true
+  },
+  {
+    "package": "phenocamr",
+    "oncran": true
+  },
+  {
+    "package": "hwsdr",
     "oncran": true
   },
   {
@@ -12,27 +28,11 @@
     "oncran": true
   },
   {
-    "package": "hwsdr",
-    "oncran": true
-  },
-  {
-    "package": "igrf",
-    "oncran": true
-  },
-  {
-    "package": "MODISTools",
-    "oncran": true
-  },
-  {
-    "package": "phenocamr",
-    "oncran": true
-  },
-  {
     "package": "skylight",
     "oncran": true
   },
   {
-    "package": "snotelr",
+    "package": "MODISTools",
     "oncran": true
   }
 ]
