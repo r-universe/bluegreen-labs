@@ -3,29 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "igrf"]
-	path = igrf
-	url = https://github.com/bluegreen-labs/igrf
-	shallow = true
-	registered = true
 [submodule "daymetr"]
 	path = daymetr
 	url = https://github.com/bluegreen-labs/daymetr
-	shallow = true
-	registered = true
-[submodule "snotelr"]
-	path = snotelr
-	url = https://github.com/bluegreen-labs/snotelr
-	shallow = true
-	registered = true
-[submodule "phenocamr"]
-	path = phenocamr
-	url = https://github.com/bluegreen-labs/phenocamr
-	shallow = true
-	registered = true
-[submodule "hwsdr"]
-	path = hwsdr
-	url = https://github.com/bluegreen-labs/hwsdr
 	shallow = true
 	registered = true
 [submodule "ecmwfr"]
@@ -38,13 +18,33 @@
 	url = https://github.com/bluegreen-labs/foto
 	shallow = true
 	registered = true
-[submodule "skylight"]
-	path = skylight
-	url = https://github.com/bluegreen-labs/skylight
+[submodule "hwsdr"]
+	path = hwsdr
+	url = https://github.com/bluegreen-labs/hwsdr
+	shallow = true
+	registered = true
+[submodule "igrf"]
+	path = igrf
+	url = https://github.com/bluegreen-labs/igrf
 	shallow = true
 	registered = true
 [submodule "MODISTools"]
 	path = MODISTools
 	url = https://github.com/bluegreen-labs/modistools
+	shallow = true
+	registered = true
+[submodule "phenocamr"]
+	path = phenocamr
+	url = https://github.com/bluegreen-labs/phenocamr
+	shallow = true
+	registered = true
+[submodule "skylight"]
+	path = skylight
+	url = https://github.com/bluegreen-labs/skylight
+	shallow = true
+	registered = true
+[submodule "snotelr"]
+	path = snotelr
+	url = https://github.com/bluegreen-labs/snotelr
 	shallow = true
 	registered = true
