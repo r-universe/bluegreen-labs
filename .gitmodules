@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "MODISTools"]
+	path = MODISTools
+	url = https://github.com/bluegreen-labs/modistools
 [submodule "appeears"]
 	path = appeears
 	url = https://github.com/bluegreen-labs/appeears
@@ -20,9 +23,6 @@
 [submodule "igrf"]
 	path = igrf
 	url = https://github.com/bluegreen-labs/igrf
-[submodule "MODISTools"]
-	path = MODISTools
-	url = https://github.com/bluegreen-labs/modistools
 [submodule "phenocamr"]
 	path = phenocamr
 	url = https://github.com/bluegreen-labs/phenocamr
