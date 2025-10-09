@@ -29,6 +29,9 @@
 [submodule "skylight"]
 	path = skylight
 	url = https://github.com/bluegreen-labs/skylight
+[submodule "skytrackr"]
+	path = skytrackr
+	url = https://github.com/bluegreen-labs/skytrackr
 [submodule "snotelr"]
 	path = snotelr
 	url = https://github.com/bluegreen-labs/snotelr
